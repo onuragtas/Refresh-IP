@@ -1,5 +1,8 @@
 # Refresh-IP
-tek komutla modem resetlemeden telnet üzerinden ip adresinizi ve bağlantınızı yenileyin.
+Tek komutla modem resetlemeden telnet üzerinden ip adresinizi ve bağlantınızı yenileyin.
 
 
-Usage: python ip.py
+Renew IP via Telnet
+
+
+Usage: python ip.py IP-ADDRESS USERNAME PASSWORD
